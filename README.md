@@ -42,7 +42,7 @@ Based on the findings, we recommended focusing on improving the mobile app exper
 ## Repository Structure
 - `data/`: Contains the Ecommerce Customers CSV dataset.
 - `Ecommerce_project (2) (1).ipynb/`: Jupyter notebooks with data analysis and model training steps.
-- `app/`: Streamlit application code for interactive data visualization.
+- `Ecommerce_project_streamlit (2).ipynb/`: Streamlit application code for interactive data visualization.
 - `README.md`: Project description and overview.
 
 ## Future Work
